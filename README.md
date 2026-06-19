@@ -36,7 +36,7 @@
 
 ### Запуск
 
-1. Скачайте последний релиз: [VDX.exe](https://github.com/yourusername/VDX/releases)
+1. Скачайте последний релиз: [VDX.exe](https://github.com/dmitrii08082019-source/VDX/releases)
 2. Запустите `VDX.exe`
 3. Введите путь к папке в диалоговом окне
 4. Наслаждайтесь работой!
